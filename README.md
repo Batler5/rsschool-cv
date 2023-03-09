@@ -1,2 +1,2 @@
 # rsschool-cv
-https://Batler5.github.io/rsschool-cv/cv
+https://batler5.github.io/rsschool-cv/
